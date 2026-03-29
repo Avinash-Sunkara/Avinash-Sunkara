@@ -72,9 +72,5 @@
 </p>
 ## 🚀 Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js,c,git,github" />
-</p>
-![snake gif](https://github.com/AvinashSunkara/AvinashSunkara/blob/output/github-contribution-grid-snake.svg)
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+Data+Science+Student;Future+Software+Engineer;Always+Learning+New+Things" />
 </p>
