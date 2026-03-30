@@ -49,9 +49,9 @@
 
 ## 🤝 Connect With Me
 <p align="left">
-<a href="[https://linkedin.com/](https://www.linkedin.com/in/avinash-sunkara-2a79b5375/)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="[https://instagram.com/](https://www.instagram.com/abhee._.naidu/)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="mailto:sunkaraa229@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://www.linkedin.com/in/avinash-sunkara-2a79b5375" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://www.instagram.com/abhee._.naidu" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<a href="sunkaraa229@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
