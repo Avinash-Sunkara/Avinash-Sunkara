@@ -25,8 +25,9 @@
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
-- C (Basic)
-- Python (Intermediate)
+- C 
+- Python
+- Java
 
 ### 🌐 Web Development
 - HTML
