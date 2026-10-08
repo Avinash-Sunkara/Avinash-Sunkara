@@ -68,8 +68,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+Data+Science+Student;Future+Software+Engineer;Always+Learning+New+Things" />
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Avinash-Sunkara&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Avinash-Sunkara&theme=dark&hide_border=true)<br/>
