@@ -37,7 +37,7 @@
 ### 📊 Interests
 - Data Science
 - AI & Machine Learning (Learning Phase)
-- Web Designing
+- Backend Development
 
 ---
 
